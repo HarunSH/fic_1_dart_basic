@@ -8,6 +8,6 @@ void main() {
   var j = i++; // j = i, i++
   var K = ++i; // k = (++i)
 
-  print(i);
   print(j);
+  print(K);
 }

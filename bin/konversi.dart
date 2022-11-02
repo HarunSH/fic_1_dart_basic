@@ -13,4 +13,7 @@ void main() {
 
   var intToDouble = inputInt.toDouble();
   var doubleToInt = intToDouble.toInt();
+
+  print(intToDouble);
+  print(doubleToInt);
 }

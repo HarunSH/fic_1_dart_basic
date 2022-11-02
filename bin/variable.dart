@@ -1,6 +1,6 @@
 void main() {
   //String
-  String belajar = "DART PZN";
+  String belajar = '100';
   print(belajar);
 
   //Variable
@@ -15,8 +15,8 @@ void main() {
   print(age);
 
   //final tidak bisa di deklarasi ulang
-  var firstName = "Mr";
-  final lastName = "Suryana";
+  var firstName = 'Mr';
+  final lastName = 'Suryana';
 
   print(firstName);
   print(lastName);
