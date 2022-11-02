@@ -4,13 +4,19 @@ void main() {
   var map3 = <String, String>{};
 
   print(map1);
-
-  var name = <String, String>{};
-
-  name['first'] = 'Harun';
-  name['middle'] = 'Surya';
-  name['last'] = 'Hamizan';
+//menambah data
+  var name = <String, String>{
+    'first': 'Harun',
+    'middle': 'Surya',
+    'last': 'Hamizan',
+  };
 
   print(name);
   print(name['first']);
+  print(name['middle']);
+  print(name['last']);
+
+  //menghapus  data
+  name.remove('last');
+  print(name);
 }
