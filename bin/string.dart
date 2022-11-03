@@ -1,7 +1,7 @@
 void main() {
   //string kumpulan huruf/text
-  String firstName = "Mr";
-  String lastName = "Suryana";
+  String firstName = '10';
+  String lastName = '20';
 
   print(firstName);
   print(lastName);

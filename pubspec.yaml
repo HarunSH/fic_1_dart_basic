@@ -1,13 +1,13 @@
 name: fic_1_dart_basic
 description: A sample command-line application.
-# version: 1.0.0
+# version: 3.0.0
 # homepage: https://www.example.com
 
 environment:
-  sdk: '>=2.10.0 <3.0.0'
+  sdk: '>=2.12.2 <3.0.0'
 
 #dependencies:
-#  path: ^1.7.0
+#  path: ^2.15.0
 
 dev_dependencies:
   pedantic: ^1.9.0

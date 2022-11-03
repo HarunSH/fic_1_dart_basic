@@ -1,6 +1,4 @@
-import 'dart:ffi';
-
-Void main() {
+void main() {
   var nilai = 50;
 
   if (nilai >= 80) {
